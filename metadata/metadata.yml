@@ -6,7 +6,7 @@ description: The software provides an end-to-end query generation facility that 
   the user's initial intent as a pseud relevance feedback is taken, secondly, the
   the search results are retrieved and preprocessed. Finally, the search results are
   summarized, passed to 5W deep neural model, and ranked according to semantic similarity,
-  which provides recommended queries sorted according to the decsending order of the
+  which provides recommended queries sorted according to the descending order of the
   user initial intent.
 authors:
 - name: Tajmir Khan
@@ -14,7 +14,7 @@ authors:
   - name: Quaid-i-Azam University Islamabad
 - name: Abdur Rehman Khan
   affiliations:
-  - name: National University of Modern Languages, Lahore, Pakistan
+  - name: School of Computer Science, Centre for Data Science, Queensland University of Technology Australia
 - name: Umer Rashid
   affiliations:
   - name: Quaid-i-Azam University Islamabad
